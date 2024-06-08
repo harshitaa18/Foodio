@@ -1,0 +1,37 @@
+.order{
+    margin: 40px;
+    background: #fdd9d9;
+    border-radius: 30px;
+    padding: 50px;
+    padding-left: 400px;
+}
+.order h1{
+    font-size: 52px;
+    color: #311f09;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.order button{
+    margin-left: 60px;
+    gap: 20px;
+}
+.red{
+    color: #ffffff;
+    background: #f54748 ;
+    min-width: 220px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.white{
+    color: #f54748;
+    background: #ffffff7f  ;
+    min-width: 220px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}

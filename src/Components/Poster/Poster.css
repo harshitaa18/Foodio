@@ -1,0 +1,58 @@
+.poster{
+    height: 100vh;
+    display: flex;
+    background: linear-gradient(0deg, #f7f7f7 23.8%, #fcdddd 92%);
+}
+.poster-left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 180px;
+    line-height: 1.4;
+    max-width: 30%;
+}
+.poster-left h1{
+    padding-top: 20px;
+    align-items: baseline;
+    font-size: 77px;
+    font-weight: 600;
+}
+.poster-left h1 span{
+    color: #f54748 ;
+}
+
+.poster-left p{
+    font-size: 20px;
+    color: #5c4429 ;
+    line-height: 1.9;
+}
+.key button{
+    margin-top: 20px; 
+}
+.batty1{
+    color: #ffffff;
+    background: #f54748 ;
+    min-width: 220px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.batty2{
+    color: #f54748;
+    background: #f5474819 ;
+    min-width: 220px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.poster-right{
+    display: flex;
+    padding-left: 180px;
+    width: 47%;
+    height: 502px;
+    padding-top: 20px;
+}
