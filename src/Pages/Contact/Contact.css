@@ -1,0 +1,49 @@
+.contact{
+    background: linear-gradient(0deg, #f7f7f7 23.8%, #fcdddd 92%);
+    padding-right: 170px;
+    padding-left: 170px;
+}
+.contact h1{
+    font-size: 80px;
+    color: #311f09 ;
+    padding-left: 300px;
+}
+.contact p{
+    color: #5c4529;
+    font-size: 25px;
+    align-items: center;
+    
+}
+.form{
+    display: flex;
+    gap: 30px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.form-right{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+}
+.form-right input,.form-right textarea{
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    padding: 5px;
+}
+.form-right textarea{
+    height: 125px;
+}
+.form-right button{
+    margin-top: 30px;
+    height: 74px;
+    background: #f54748;
+    color: #ffffff ;
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+    font-weight: 500;
+}
+

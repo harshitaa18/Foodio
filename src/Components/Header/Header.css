@@ -1,3 +1,4 @@
+
 .header{
     display: flex;
     justify-content: space-around;
@@ -25,7 +26,6 @@
     align-items: center;
     list-style: none;
     gap: 40px;
-    color: #626262;
     font-size: 20px;
     font-weight: 400;
 }
@@ -37,18 +37,37 @@
     gap: 3px;
     cursor: pointer;
 }
-.button{
+.header-menu li a{
+    color: #626262; 
+}
+.header-menu li.active a{
+    color: #FF4141;
+}
+.side-buttons{
     margin-top: 25px;
+    outline: none;
+    cursor: pointer;
+}
+.cart{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 20px;
+    border: none;
+    margin-right: 20px;
+}
+.button{
     width: 130px;
     height: 48px;
-    outline: none;
     border-radius: 15px;
-    border: 1px solid white;
+    border: none;
     color: white;
     font-size: 20px;
     font-weight: 600;
     background: rgb(247, 35, 35);
-    cursor: pointer;
+}
+.cart:hover{
+    background: #d0ccc719;
 }
 .button:hover{
     background: #f3f3f3;

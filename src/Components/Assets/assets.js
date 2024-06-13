@@ -66,7 +66,7 @@ export const food_list = [
         image: food_6,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dinner"
     },
     {
         _id: "1",
@@ -74,7 +74,7 @@ export const food_list = [
         image: food_7,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dinner"
     },
     {
         _id: "1",
@@ -82,7 +82,7 @@ export const food_list = [
         image: food_8,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dinner"
     },
     {
         _id: "1",
@@ -90,7 +90,7 @@ export const food_list = [
         image: food_9,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dinner"
     },
     {
         _id: "1",
@@ -98,7 +98,7 @@ export const food_list = [
         image: food_10,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dinner"
     },
     {
         _id: "1",
@@ -106,7 +106,7 @@ export const food_list = [
         image: food_11,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Lunch"
     },
     {
         _id: "1",
@@ -114,7 +114,7 @@ export const food_list = [
         image: food_12,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Lunch"
     },
     {
         _id: "1",
@@ -122,7 +122,7 @@ export const food_list = [
         image: food_13,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Lunch"
     },
     {
         _id: "1",
@@ -130,7 +130,7 @@ export const food_list = [
         image: food_14,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Lunch"
     },
     {
         _id: "1",
@@ -138,7 +138,7 @@ export const food_list = [
         image: food_15,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Lunch"
     },
     {
         _id: "1",
@@ -146,7 +146,7 @@ export const food_list = [
         image: food_16,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dessert"
     },
     {
         _id: "1",
@@ -154,7 +154,7 @@ export const food_list = [
         image: food_17,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dessert"
     },
     {
         _id: "1",
@@ -162,7 +162,7 @@ export const food_list = [
         image: food_18,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dessert"
     },
     {
         _id: "1",
@@ -170,7 +170,7 @@ export const food_list = [
         image: food_19,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dessert"
     },
     {
         _id: "1",
@@ -178,6 +178,6 @@ export const food_list = [
         image: food_20,
         price: 12,
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas consequat mi eget auctor aliquam, diam.",
-        category: "Salad"
+        category: "Dessert"
     }
 ]

@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import './Homepage.css'
 import Poster from '../../Components/Poster/Poster'
 import Poster1 from '../../Components/Poster1/Poster1'
 import Order from '../../Components/Order/Order'

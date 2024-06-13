@@ -9,7 +9,6 @@
     gap: 20px;
     padding-left: 180px;
     line-height: 1.4;
-    max-width: 30%;
 }
 .poster-left h1{
     padding-top: 20px;
@@ -28,26 +27,23 @@
 }
 .key button{
     margin-top: 20px; 
+    align-items: center;
+    justify-content: space-around;
+    min-width: 220px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
 }
 .batty1{
     color: #ffffff;
-    background: #f54748 ;
-    min-width: 220px;
-    height: 70px;
-    border: none;
-    border-radius: 20px;
-    font-size: 20px;
-    font-weight: 600;
+    background: #f54748 ;   
 }
 .batty2{
+    margin-left: 40px;
     color: #f54748;
     background: #f5474819 ;
-    min-width: 220px;
-    height: 70px;
-    border: none;
-    border-radius: 20px;
-    font-size: 20px;
-    font-weight: 600;
 }
 .poster-right{
     display: flex;
@@ -55,4 +51,5 @@
     width: 47%;
     height: 502px;
     padding-top: 20px;
+    margin-right: 120px;
 }
